@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Даниил Васильев](https://up.htmlacademy.ru/htmlcss/19/user/326469).
-* Наставник:[Роман Гуринович](https://htmlacademy.ru/profile/id561773).
+* Наставник: [Роман Гуринович](https://htmlacademy.ru/profile/id561773).
 
 ---
 
